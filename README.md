@@ -3,6 +3,11 @@
 This is my read me.
 ## Alaotsikko
 2
+|Class|LVL|
+|:------|----:|
+|Bard|60|
+|Scholar|60|
+|Warrior|45|
 ### Alaotsikko
 3
 ![](http://cdn2.ubergizmo.com/wp-content/uploads/2013/09/ff14-unban.jpg)
