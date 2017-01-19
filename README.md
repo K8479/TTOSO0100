@@ -2,7 +2,6 @@
 
 This is my read me.
 ## Alaotsikko
-2
 | Class | LVL |
 |:------|----:|
 |Bard|60|
